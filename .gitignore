@@ -1,0 +1,11 @@
+.venv
+.env
+aaif_exercise.code-workspace
+.vscode
+__pycache__
+.idea
+aaif_exercise.code-workspace
+.venv/*
+Venv/*.*
+*.wav
+*mp3
